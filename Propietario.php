@@ -1,0 +1,2 @@
+
+$protected $table='propietarios';
